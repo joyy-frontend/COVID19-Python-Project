@@ -4,9 +4,9 @@
 ```
 
 # 데이터 시각화 결과 화면
-```
+
 https://public.flourish.studio/visualisation/4903265/
-```
+
 
 # Introduction
 ```
