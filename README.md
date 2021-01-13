@@ -4,10 +4,10 @@ COVID19 Project
 
 
 
-# 시각화 화면
+# 데이터 시각화 결과 화면
 https://public.flourish.studio/visualisation/4903265/
 
-
+# Introduction
 
 =======
 2020.01~ 2020.06 코로나 사망자 추이, 데이터 시각화
