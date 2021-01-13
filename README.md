@@ -1,5 +1,5 @@
 # COVID19-Python-Project
-<<<<<<< HEAD
+
 2020.01~ 2020.06 코로나 바이러스 확진자 추이를 데이터 시각화를 통해 쉽게 볼 수 있다.
 
 
@@ -19,7 +19,5 @@ https://public.flourish.studio/visualisation/4903265/
 - Jupyter Notebook
 - Flourish.studio
 
-=======
 
->>>>>>> 587865aa5104b3084d935ccaa6dd9d85c2afad76
 
